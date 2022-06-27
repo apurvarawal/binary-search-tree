@@ -1,0 +1,8 @@
+> BST is a type of binary tree.
+> Each subtree is a binary subtree.
+> Elements less than the root node lie in the left subtree, whereas Elements greater than the root node lie in 
+  right subtree.
+> Time complexity for searching = O(Depth of tree)
+> Time complexity for inserting = O(Depth of tree)
+> Depth of tree in best case = O(logN)
+> Depth of tree in worst case = O(N)  [Skew tree case, where all elements lie on one side.]
